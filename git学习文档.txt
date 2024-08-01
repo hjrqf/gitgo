@@ -6,3 +6,5 @@
 
 
 我是任豪爽
+git push老是失败 取消代理
+ git config --global --unset http.proxy
