@@ -3,3 +3,8 @@
 我是修改的内容
 
 我是克隆下来后再次修改的内容
+
+
+我是任豪爽
+git push老是失败 取消代理
+ git config --global --unset http.proxy
